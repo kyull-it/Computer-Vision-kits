@@ -12,12 +12,14 @@
 이미지 분류(Image Classification), 객체 인식(Object Detection), 영상 분할(Image Segmentation) 등이 컴퓨터 비전 분야에 속한다.
 
 * 컴퓨터 비전 및 이미지 처리에 활용할 수 있는 패키지들
+
 imutils, OpenCV, Dlib, Scikit-learn, Scikit 이미지, TensorFlow, Keras, Mxnet, Fastai, Pytessarct, PyTorchCV 
 
 
 영상 처리는 Sensor Level의 기술이고, 컴퓨터 비전은 Application Level의 기술이라고 이해하면 쉽다.
 영상의 quality는 영상에서 유용한 정보를 뽑아내기 위한 컴퓨터 비전에 큰 영향을 미치고, 
 어떤 정보를 담고 있는지 영상을 분석하려면 점점 고급화되고있는 영상처리 작업도 고려되어야 한다.
+
 
 영상처리/비전에서는 선형대수학, 확률 및 통계를 주로 사용하기 때문에 이에 대한 기본상식이 필수적이다.
 
