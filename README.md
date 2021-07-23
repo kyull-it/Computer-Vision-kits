@@ -13,7 +13,7 @@
 
 * 컴퓨터 비전 및 이미지 처리에 활용할 수 있는 패키지들
 
-imutils, OpenCV, Dlib, Scikit-learn, Scikit 이미지, TensorFlow, Keras, Mxnet, Fastai, Pytessarct, PyTorchCV 
+    :    imutils, OpenCV, Dlib, Scikit-learn, Scikit 이미지, TensorFlow, Keras, Mxnet, Fastai, Pytessarct, PyTorchCV 
 
 
 영상 처리는 Sensor Level의 기술이고, 컴퓨터 비전은 Application Level의 기술이라고 이해하면 쉽다.
