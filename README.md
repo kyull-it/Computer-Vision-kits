@@ -23,5 +23,7 @@ imutils, OpenCV, Dlib, Scikit-learn, Scikit 이미지, TensorFlow, Keras, Mxnet,
 
 
 출처1 : https://iskim3068.tistory.com/1
+
 출처2 : https://ichi.pro/ko/keompyuteo-bijeon-mich-imiji-cheoli-78120868670353
+
 출처3 : https://dk-kang.tistory.com/entry/cv2
