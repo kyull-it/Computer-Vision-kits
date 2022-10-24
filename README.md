@@ -3,11 +3,11 @@
 
 ### timm
 
-1) timm_readme.ipynb<br>
-&emsp; - timm 튜토리얼<br>
- <br>
-2) timm_animal.ipynb<br>
-&emsp; - google open image dataset에서 수집한 animal custom dataset을 적용해본 연습코<br>
+1) timm_readme.ipynb
+&emsp; - timm 튜토리얼
+
+2) timm_animal.ipynb
+&emsp; - google open image dataset에서 수집한 animal custom dataset을 적용해본 연습코드
 
 
 ### Turicreate
