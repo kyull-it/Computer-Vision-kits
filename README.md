@@ -11,4 +11,4 @@
 
 
 ### Turicreate
-Copy of turicreate-sframes-intro.ipynb
+`Copy of turicreate-sframes-intro.ipynb`
