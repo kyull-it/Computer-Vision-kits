@@ -1,13 +1,16 @@
-# Computer Vision toolkits 모음
+# Computer Vision toolkits
 
 
 ### timm
 
 1) `timm_readme.ipynb`<br>
-&emsp; - timm 튜토리얼
+&emsp; - Tutorial of **timm** framework which is supporting pytorch image models.<br>
+&emsp; - Reference Link : https://github.com/rwightman/pytorch-image-models<br>
 
-2) `timm_animal.ipynb`<br>
-&emsp; - google open image dataset에서 수집한 animal custom dataset을 적용해본 연습코드
+
+2) `timm_scene.ipynb`<br>
+&emsp; - This is a practice code of training a classification model for 6 classes of Intel_Scene_dataset which is collected in kaggle.<br>
+&emsp; - Reference Link : https://www.kaggle.com/datasets/puneet6060/intel-image-classification
 
 
 ### Turicreate
