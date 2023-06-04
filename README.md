@@ -4,7 +4,7 @@
 ### timm
 
 1) `timm_readme.ipynb`<br>
-&emsp; - Tutorial of **timm** framework which is supporting pytorch image models.<br>
+&emsp; - Tutorial of **timm** framework which is supporting various pytorch models for image classification.<br>
 &emsp; - Reference Link : https://github.com/rwightman/pytorch-image-models<br>
 
 
