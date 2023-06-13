@@ -1,6 +1,6 @@
 # Scene-Image-Classification
 
-This repository is the classification model for training 6 classes of scene images from kaggle dataset.
+This repository contains the codes for classification model to train 6 classes of scene images from kaggle dataset.
 - dataset link : https://www.kaggle.com/datasets/puneet6060/intel-image-classification
 
 
